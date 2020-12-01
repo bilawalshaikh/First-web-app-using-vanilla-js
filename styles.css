@@ -1,0 +1,66 @@
+ .txt-area{
+ width: 80%;
+height: 10vh;
+display: block;
+padding: 1rem;
+margin: 1rem;
+}
+
+.trans-txt{
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    display: block;
+    padding: 1rem;
+    /* margin: 1rem;  */
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 1rem;
+    margin-bottom: 1rem; 
+    /* margin-left: auto;  */
+    /* overflow: hidden; */
+}
+.divUp{
+    background-color: blueviolet;
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    
+} 
+#allwali{
+    margin-top: -2rem;
+}
+.all{ border:20px solid green;
+    justify-content: center;
+    display: table; 
+    height: 100%; 
+    width: 92%; 
+    overflow: hidden;
+    
+}
+.all .bech{
+    text-align: center;
+}
+/* #btn-translate
+ { text-align:center;
+} */
+
+
+/* .di {
+    border-left: 70px solid green;
+    height: 500px;
+    margin-top: 0%;
+    border-bottom-left-radius: 1rem;
+    text-align: center;
+  }
+.di .vl {
+    text-align: center;
+  }
+    .vl2 {
+        border-right: 70px solid green;
+        height: 500px;
+        margin-top: 0%;
+        border-bottom-left-radius: 1rem;
+        text-align: center;
+      } */
+    
