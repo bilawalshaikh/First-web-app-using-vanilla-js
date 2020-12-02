@@ -20,23 +20,43 @@ margin: 1rem;
     /* margin-left: auto;  */
     /* overflow: hidden; */
 }
-.divUp{
+/* .divUp{
     background-color: blueviolet;
     color: white;
     padding: 1rem;
+    text-align: center;
     border-bottom-left-radius: 1rem;
-    
-} 
-#allwali{
-    margin-top: -2rem;
-}
-.all{ border:20px solid green;
-    justify-content: center;
-    display: table; 
+    height: 400px; 
+    width: 100%;
+}  */
+/* .divUp1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    margin-bottom: -1rem;
+    padding-bottom: 2rem;
+    border-bottom-left-radius: 1rem;
     height: 100%; 
-    width: 92%; 
-    overflow: hidden;
+    width: 100%;
+} */
+/* #allwali{
+    margin-right: 30rem;
+} */
+.all{
+width: 100%;
+height: 100%;
+/* left: 0; */
+/* top: 0; */
+background: rgba(51,51,51,0.7);
+/* z-index: 10; */
     
+    border:20px solid green; 
+    /* justify-content: center; */
+    display: table; 
+/* height: 100%; */
+/* width: 100%;      */
+    overflow: hidden;
+    /* background-color: teal; */
 }
 .all .bech{
     text-align: center;
