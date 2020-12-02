@@ -4,7 +4,7 @@ var transTxt=document.querySelector("#trans-txt");
 
 
 var serverURL = "https://api.funtranslations.com/translate/minion.json"
-
+// var serverURL="https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json";
 
 function getTranslationURL(input) {
     return serverURL + "?" + "text=" + input
