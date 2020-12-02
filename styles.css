@@ -49,15 +49,18 @@ html, body {
   
   
 .all{
-/* width: 98%;
-height: 98%; */
-width: 100vw;
-    height: 100vh;
+width: 98%;
+height: 98%;
+
 background: rgba(51,51,51,0.7);
     border:20px solid green; 
     justify-content: center;
     display: table; 
 overflow: hidden;
+/* margin-top: 1rem; */
+margin-bottom: 1rem;
+margin-right: 2rem;
+/* margin-left: 1rem; */
 }
 .all .bech{
     text-align: center;
