@@ -27,7 +27,7 @@ main {
     max-width: var(--width-break);
 }
 
-textarea {
+#txt-area {
     box-sizing: border-box;
     display: block;
     width: 100%;
@@ -37,7 +37,7 @@ textarea {
     font-family: inherit;
 }
 
-button {
+#btn-click {
     background-color: var(--primary);
     border: none;
     margin: 1rem 0rem;
@@ -47,7 +47,7 @@ button {
 }
 
 
-#translate-output {
+#trans-txt {
     box-sizing: border-box;
     width: 100%;
     min-height: 10vh;
