@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
-
+/* @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&display=swap');
 * {
     box-sizing: border-box;
 }
 
 :root {
-    --primary: #F2C94C;
+    --primary:#D97706;
     --black: #333333;
     --width-break:600px
 }
 
 body {
     margin: 0;
-    font-family: 'Kalam', cursive;
-    color: #333333;
+    font-family:'Verdana', sans-serif;
+    color: var(--black);
 }
 
 nav {
@@ -42,8 +42,9 @@ main {
     border: none;
     margin: 1rem 0rem;
     padding: 1rem 2rem;
-    font-family: 'Kalam', cursive;
+    font-family:'Verdana', sans-serif;
     font-size: large;
+    color: white;
 }
 
 
